@@ -1,3 +1,4 @@
+//Later change to TOF sensor
 // defines pins numbers
 const int trigPin = 8;
 const int echoPin = 9;
